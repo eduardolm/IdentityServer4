@@ -8,4 +8,15 @@
     <PackageReference Include="Microsoft.AspNetCore.Authentication.OpenIdConnect" Version="3.1.6" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Content Update="Views\Shared\json.cshtml">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="Views\Shared\json.cshtml.cs" />
+  </ItemGroup>
+
 </Project>

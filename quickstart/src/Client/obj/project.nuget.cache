@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "FsT8vHXVmFhPxbj/EgZ4YsIDaLyG0OorNhSpKzLGY/y4P8edTdFOcj3Is6Y33spZKGq3LxnUGkJAlkp/LCZIMA==",
+  "success": true,
+  "projectFilePath": "E:\\Eduardo\\Documents\\RiderProjects\\IdentityServer4\\quickstart\\src\\Client\\Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Eduardo\\.nuget\\packages\\identitymodel\\4.3.1\\identitymodel.4.3.1.nupkg.sha512",
+    "C:\\Users\\Eduardo\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\Eduardo\\.nuget\\packages\\system.text.encodings.web\\4.7.0\\system.text.encodings.web.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

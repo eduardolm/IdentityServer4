@@ -1,0 +1,8 @@
+Api/bin
+Api/obj
+Client/bin
+Client/obj
+IdentityServer/bin
+IdentityServer/obj
+MVCClient/bin
+MVCClient/obj
